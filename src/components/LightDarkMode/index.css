@@ -1,0 +1,51 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.white {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+.dark {
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+.dark-mode {
+  background-color: Black;
+  border-radius: 5px;
+  width: 30vw;
+  align-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.light-mode {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 30vw;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.btn {
+  width: 85px;
+  height: 35px;
+  color: Black;
+  border-radius: 5px;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+}
